@@ -1,0 +1,10 @@
+Windows + R 
+cmd
+
+.........................................
+pip install opencv-python
+pip install numpy
+pip install requests
+---------------------------------------
+python --version
+pip --version
